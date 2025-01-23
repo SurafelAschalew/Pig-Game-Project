@@ -16,8 +16,8 @@ To get started with [Pig Game], visit our official website:
 
 For more information, questions, or support, feel free to reach out to us:
 
-- Telegram: [Yamroz](https://t.me/#)
-- Instagram: [Yamroz](https://instagram.com/#)
+- Telegram: [surafel](https://t.me/surafel_a8)
+- Instagram: [surafel](https://instagram.com/surafel_a8)
 
 Thank you for visiting [Pig Game - Project]! I hope you enjoy your experience.
 
