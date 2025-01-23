@@ -10,7 +10,7 @@ The objective of the game is to reach 100 points before your opponent. Players t
 
 To get started with [Pig Game], visit our official website:
 
-[Visit Pig Game - Project](https://s-omnifood.netlify.app/)
+[Visit Pig Game - Project](https://s-pig-game.netlify.app/)
 
 ## Contact
 
